@@ -19,3 +19,4 @@ Post method- localhost:8902/saveEmpTbl
 Get Method- localhost:8902/employeesTbl
 
 Delete Method- http://localhost:8902/delete=110000
+
